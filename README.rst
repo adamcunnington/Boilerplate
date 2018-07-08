@@ -17,5 +17,5 @@ Assumptions
 Usage
 -----
 Duplicate the project contents into your project dir and make the following changes:
-- Edit the copyright notice in LICENSE.
-- Edit the following kwargs in setup.py; description, name, author, author_email.
+1. Edit the copyright notice in LICENSE.
+2. Edit the following kwargs in setup.py; description, name, author, author_email.
