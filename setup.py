@@ -19,7 +19,7 @@ setuptools.setup(
     long_description=readme,
     name="",
     packages=setuptools.find_packages(exclude=("tests")),
-    test_requires=["pytest"],
+    test_requires=["coverage", "pytest"],
     url="https://github.com/adamcunnington/",
     version=""
 )
