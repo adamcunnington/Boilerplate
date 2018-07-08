@@ -10,8 +10,8 @@ with open("LICENSE") as f:
 
 
 setuptools.setup(
-    author="Adam Cunnington",
-    author_email="adamcunnington.info@gmail.com",
+    author="",
+    author_email="",
     description="",
     entry_points={"console_scripts": []},
     install_requires=[],
